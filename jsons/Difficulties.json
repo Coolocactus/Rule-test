@@ -28,4 +28,34 @@
 		"turnBarbariansCanEnterPlayerTiles": 20,
 		"clearBarbarianCampReward": 30
 	}
+	{
+		"name": "France",
+		"baseHappiness": -5,
+		"extraHappinessPerLuxury": 5,
+		"researchCostModifier": 0.85,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 7,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 0.85,
+		"policyCostModifier": 0.85,
+		"unhappinessModifier": 3,
+		"barbarianBonus": 0.4,
+		"barbarianSpawnDelay": 3,
+		"playerBonusStartingUnits": ["Settler"],
+		"aiCityGrowthModifier": 1.1,
+		"aiUnitCostModifier": 1.1,
+		"aiBuildingCostModifier": 1.1,
+		"aiWonderCostModifier": 1.1,
+		"aiBuildingMaintenanceModifier": 2,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0.1,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 10,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 20,
+		"clearBarbarianCampReward": 30
+	}
+
 ]
